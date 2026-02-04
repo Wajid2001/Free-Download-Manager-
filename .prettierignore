@@ -1,0 +1,9 @@
+node_modules
+.dist
+.vite
+build
+dist
+coverage
+src-tauri/target
+src-tauri/gen
+src-tauri/node_modules
