@@ -1,8 +1,8 @@
 import "./App.css"
-import { ComponentExample } from "@/components/component-example"
+import { DownloadManager } from "@/features/downloads/DownloadManager"
 
 export function App() {
-  return <ComponentExample />
+  return <DownloadManager />
 }
 
 export default App
